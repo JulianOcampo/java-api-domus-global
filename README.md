@@ -4,7 +4,7 @@
 
 El proyecto **Domus Challenge** es una aplicación backend desarrollada en **Java 17** con **Spring Boot**, diseñada para gestionar productos mediante endpoints RESTful, paginación, validaciones y pruebas automatizadas.  
 El proyecto sigue una arquitectura modular basada en **Domain-Driven Design (DDD)** simplificado, priorizando la mantenibilidad y separación clara de responsabilidades.
-
+![Screenshot 2025-10-24 at 11.26.54 PM.png](Screenshot%202025-10-24%20at%2011.26.54%E2%80%AFPM.png)
 ---
 
 ## Estructura del Proyecto
